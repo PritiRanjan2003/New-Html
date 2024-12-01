@@ -1,0 +1,5 @@
+a=input("Enter The Number")
+b=input("Enter The Number")
+c=input("Enter The Number")
+print (a+b)
+print( int(c) * int (b) )
